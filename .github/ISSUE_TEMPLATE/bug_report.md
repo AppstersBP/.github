@@ -27,7 +27,13 @@ Arra számítottam, hogy az fog történni, hogy ...
 
 Ehelyett az történt, hogy ...
 
+### Képek
+
+Tölts fel képet, hogy jobban lehessen érteni a hibát! (Ha nincs, akkor ez a blokk törölhető.)
+
 ### Rendszer/környezet
+
+(Ha nincs, vagy nem releváns, akkor ez a blokk törölhető.)
 
 ### Böngésző
 - [ ] Google Chrome
@@ -44,8 +50,3 @@ Ehelyett az történt, hogy ...
 - [ ] iPhone
 - [ ] Android
 - [ ] Egyéb:
-
-
-### Képek
-
-Tölts fel képet, hogy jobban lehessen érteni a hibát! (Ha nincs, akkor ez a blokk törölhető.)
