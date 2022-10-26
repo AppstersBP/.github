@@ -1,52 +1,24 @@
----
-name: Bug report
-about: Something is broken
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### Rövid leírás
 
-Megpróbáltam azt csinálni, hogy ..., de az történt, hogy ... .
+Nem jók a reszponzív nézetek
 
-### Reprodukálás lépései
+### Problémás oldalak listája
 
-1. Menj ide
-2. Kattints rá
-3. Scrollozz le
-4. Frissítsd az oldalt és várj 5 másodpercet
-5. Ha mindeközben esik az eső, akkor előjön a hiba
+- [ ] itt egy kép az elsőről: [első](https://user-images.githubusercontent.com/13754361/197970867-1b91526a-e231-4d1e-90f9-1d584075884d.png)
+- [ ] ez már egy másik screenshot: [színes csíkok](https://user-images.githubusercontent.com/13754361/197971622-086eb025-1854-474e-8d9d-51d7fab00f7b.png)
 
-### Várt eredmény
+### Cheat sheet
 
-Arra számítottam, hogy az fog történni, hogy ...
+A fenti úgy készült, hogy egyszerűen ctrl-v -vel beszúrtam a clipboardról egy képet. Először úgy szúrja be, hogy:
 
-### Kapott eredmény
+```
+![image](https://user-images.githubusercontent.com/13754361/197970867-1b91526a-e231-4d1e-90f9-1d584075884d.png)
+```
 
-Ehelyett az történt, hogy ...
+Az elejéről ki kell venni a felkiáltójelet, és akkor nem inline lesz a kép, hanem csak egy link. A szögletes zárójelben lévő részt át lehet írni bármire.
 
-### Képek
+```
+[első](https://user-images.githubusercontent.com/13754361/197970867-1b91526a-e231-4d1e-90f9-1d584075884d.png)
+```
 
-Tölts fel képet, hogy jobban lehessen érteni a hibát! (Ha nincs, akkor ez a blokk törölhető.)
-
-### Rendszer/környezet
-
-(Ha nincs, vagy nem releváns, akkor ez a blokk törölhető.)
-
-### Böngésző
-- [ ] Google Chrome
-- [ ] Mozilla Firefox
-- [ ] Opera
-- [ ] Apple Safari
-- [ ] Microsoft Edge
-- [ ] Egyéb:
-
-#### Operációs rendszer
-- [ ] Windows
-- [ ] Mac
-- [ ] Linux
-- [ ] iPhone
-- [ ] Android
-- [ ] Egyéb:
+Nyomj rá az eredeti szerkesztésére, és akkor látod a forrást pontosan.
